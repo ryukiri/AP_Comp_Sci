@@ -236,3 +236,7 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 /Misc/nbproject/private/
+/Unit 4/Craps/nbproject/private/
+/Unit 2/Elevator/nbproject/private/
+/Unit 2/CoolPic/nbproject/private/
+/Unit 1/BasicCalculator/nbproject/private/
