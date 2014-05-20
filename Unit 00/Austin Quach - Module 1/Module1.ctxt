@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=double\ square(double)
+comment1.params=x\ y
+comment1.target=int\ addThem(int,\ int)
+comment10.params=radius\ height
+comment10.target=double\ cylinderVolume(double,\ double)
+comment11.params=people
+comment11.target=double\ totalProfit(int)
+comment2.params=r
+comment2.target=double\ circleArea(double)
+comment3.params=inner\ outer
+comment3.target=double\ ringArea(double,\ double)
+comment4.params=celsius
+comment4.target=double\ cToF(double)
+comment5.params=time
+comment5.target=double\ currentTemp(double)
+comment6.params=feet\ inches
+comment6.target=int\ lengthInInches(int,\ int)
+comment7.params=base\ height
+comment7.target=double\ triangleArea(double,\ double)
+comment8.params=quarters\ dimes\ nickels\ pennies
+comment8.target=int\ sumCoins(int,\ int,\ int,\ int)
+comment9.params=time
+comment9.target=double\ distanceFallen(double)
+numComments=12
